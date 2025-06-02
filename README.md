@@ -9,7 +9,7 @@ This project aimed to evaluate and compare the performance of two distinct digit
 ### **Technical Stack:**
 
 * **Languages & Libraries:** Python, Pandas, NumPy, Matplotlib, Seaborn, Scipy, Scikit-learn, Statsmodels
-* **Techniques Applied:** A/B testing methodology, hypothesis testing, regression analysis, seasonal decomposition, correlation analysis
+* **Techniques Applied:** A/B testing methodology, **hypothesis testing**, **regression analysis**, seasonal decomposition, correlation analysis
 * **Data Source:** Year-long daily performance data of Facebook and AdWords campaigns (2019)
 
 ### **Key Outcomes:**
